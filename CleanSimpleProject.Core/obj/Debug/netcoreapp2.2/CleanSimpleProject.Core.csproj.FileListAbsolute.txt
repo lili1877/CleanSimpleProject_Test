@@ -1,0 +1,16 @@
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\bin\Debug\netcoreapp2.2\CleanSimpleProject.Core.deps.json
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\bin\Debug\netcoreapp2.2\CleanSimpleProject.Core.runtimeconfig.json
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\bin\Debug\netcoreapp2.2\CleanSimpleProject.Core.runtimeconfig.dev.json
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\bin\Debug\netcoreapp2.2\CleanSimpleProject.Core.dll
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\bin\Debug\netcoreapp2.2\CleanSimpleProject.Core.pdb
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\bin\Debug\netcoreapp2.2\CleanSimpleProject.Core.Views.dll
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\obj\Debug\netcoreapp2.2\CleanSimpleProject.Core.csproj.CoreCompileInputs.cache
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\obj\Debug\netcoreapp2.2\CleanSimpleProject.Core.RazorAssemblyInfo.cache
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\obj\Debug\netcoreapp2.2\CleanSimpleProject.Core.RazorAssemblyInfo.cs
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\obj\Debug\netcoreapp2.2\CleanSimpleProject.Core.AssemblyInfoInputs.cache
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\obj\Debug\netcoreapp2.2\CleanSimpleProject.Core.AssemblyInfo.cs
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\obj\Debug\netcoreapp2.2\CleanSimpleProject.Core.RazorTargetAssemblyInfo.cache
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\obj\Debug\netcoreapp2.2\CleanSimpleProject.Core.dll
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\obj\Debug\netcoreapp2.2\CleanSimpleProject.Core.pdb
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\obj\Debug\netcoreapp2.2\CleanSimpleProject.Core.csproj.CopyComplete
+F:\Learning\CleanSimpleProject\CleanSimpleProject.Core\obj\Debug\netcoreapp2.2\CleanSimpleProject.Core.csprojAssemblyReference.cache
